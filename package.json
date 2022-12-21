@@ -1,0 +1,20 @@
+{
+  "name": "curso-practico-api-moviedb",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de API REST con javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabino2395/curso-practico-api-moviedb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabino2395/curso-practico-api-moviedb/issues"
+  },
+  "homepage": "https://github.com/gabino2395/curso-practico-api-moviedb#readme"
+}
